@@ -1,4 +1,4 @@
 # coffeeShop
-simple coffee shop 
-<br>
-Creator - Dipa Roy
+Creator - Gobinda Das
+
+A ultimate coffee trading website
